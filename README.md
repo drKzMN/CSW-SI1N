@@ -52,12 +52,6 @@ h1 {
 - **Responsive Design** – Allows pages to adapt to different screen sizes.
 - **Integration with Other Technologies** – Works seamlessly with JavaScript and backend frameworks.
 
-## 📚 Additional Resources
-
-- [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [W3Schools - HTML & CSS Tutorials](https://www.w3schools.com/)
-
 ## 🎯 How to Use This Repository
 
 1. Clone the repository:
