@@ -1,37 +1,37 @@
 # HTML & CSS
 
-## 📌 About This Repository
+## 📌 Sobre este repositório
 
-Welcome to this GitHub repository dedicated to HTML and CSS! This project serves as a foundational guide for learning and practicing web development using these core technologies.
+Bem-vindo a este repositório do GitHub dedicado a HTML e CSS! Este projeto serve como um guia fundamental para aprender e praticar desenvolvimento web utilizando essas tecnologias essenciais.
 
-## 🏗 Introduction
+## 🏗 Introdução
 
-HTML (HyperText Markup Language) and CSS (Cascading Style Sheets) are essential technologies for creating structured and visually appealing web pages. HTML defines the structure, while CSS enhances the presentation and design.
+HTML (HyperText Markup Language) e CSS (Cascading Style Sheets) são tecnologias essenciais para criar páginas web estruturadas e visualmente atraentes. O HTML define a estrutura, enquanto o CSS melhora a apresentação e o design.
 
-## 📜 What is HTML?
+## 📜 O que é HTML?
 
-HTML is a markup language used to structure web content. It consists of elements that define different parts of a webpage, such as headings, paragraphs, images, and links.
+HTML é uma linguagem de marcação usada para estruturar o conteúdo da web. Ela consiste em elementos que definem diferentes partes de uma página, como cabeçalhos, parágrafos, imagens e links.
 
-### 📝 Basic HTML Structure
+### 📝 Estrutura básica de HTML
 
 ```html
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My First Page</title>
+    <title>Minha Primeira Página</title>
 </head>
 <body>
-    <h1>Welcome to HTML</h1>
-    <p>This is a simple HTML page.</p>
+    <h1>Bem-vindo ao HTML</h1>
+    <p>Esta é uma página simples em HTML.</p>
 </body>
 </html>
 ```
 
-## 🎨 What is CSS?
+## 🎨 O que é CSS?
 
-CSS is a stylesheet language used to control the presentation of HTML elements, including colors, fonts, layouts, and responsiveness.
+CSS é uma linguagem de estilo usada para controlar a apresentação dos elementos HTML, incluindo cores, fontes, layouts e responsividade.
 
-### 🎨 Basic CSS Example
+### 🎨 Exemplo básico de CSS
 
 ```css
 body {
@@ -45,26 +45,25 @@ h1 {
 }
 ```
 
-## 🚀 Why Learn HTML and CSS?
+## 🚀 Por que aprender HTML e CSS?
 
-- **Essential for Web Development** – They are the backbone of web design.
-- **Customizable and Flexible** – Enables full control over content and design.
-- **Responsive Design** – Allows pages to adapt to different screen sizes.
-- **Integration with Other Technologies** – Works seamlessly with JavaScript and backend frameworks.
+- **Essenciais para o Desenvolvimento Web** – São a base do design web.
+- **Personalizável e Flexível** – Oferece controle total sobre conteúdo e design.
+- **Design Responsivo** – Permite que as páginas se adaptem a diferentes tamanhos de tela.
+- **Integração com Outras Tecnologias** – Funciona perfeitamente com JavaScript e frameworks de backend.
 
-## 🎯 How to Use This Repository
+## 🎯 Como usar este repositório
 
-1. Clone the repository:
+1. Clone o repositório:
    ```sh
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/seu-usuario/seu-repositorio.git
    ```
-2. Open the project files in a code editor.
-3. Experiment with the provided HTML and CSS examples.
-4. Modify and expand the code to enhance your understanding.
+2. Abra os arquivos do projeto em um editor de código.
+3. Experimente os exemplos de HTML e CSS fornecidos.
+4. Modifique e expanda o código para melhorar seu entendimento.
 
-## ✨ Contributing
+## ✨ Contribuindo
 
-Contributions are welcome! If you'd like to improve this repository, feel free to fork it and submit a pull request.
+Contribuições são bem-vindas! Se você deseja melhorar este repositório, sinta-se à vontade para fazer um fork e enviar um pull request.
 
-Happy coding! 🚀
-
+Feliz codificação! 🚀
